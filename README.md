@@ -12,7 +12,7 @@
 ### :sunglasses: Green Team Voter Way
 <p align="center"><img src="https://i.imgur.com/fYo5wiC.gif"></p>
 
-## :construction_worker: Setup
+### :construction_worker: Setup
 
 - Clone/download the repo.
 - Edit main.js however you want to suit your form.
